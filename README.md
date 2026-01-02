@@ -1,3 +1,5 @@
+## AI scanning Earth and revealing hidden environmental risk
+
 This repository contains an end-to-end Earth Intelligence system that learns normal environmental behavior directly from multi-sensor satellite data and automatically detects hidden environmental anomalies — without using labeled data.
 
 Instead of classifying land or generating static maps, the system models normality and highlights deviations using unsupervised deep learning.
